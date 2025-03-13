@@ -1,1 +1,7 @@
-[![H3h3QAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3h3QAQ&show_icons=true&theme=radical)](https://h3geeker.top/)
+<h2> Hi, I'm h3h3qaq 👋</h2>
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=h3h3qaq&show_icons=true&hide_border=true&hide=prs&theme=buefy">
+</p>
+
+
+****
