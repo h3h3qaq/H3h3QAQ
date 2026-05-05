@@ -7,7 +7,6 @@
 - CVE-2025-27526: Apache InLong: JDBC Vulnerability For URLEncode and backspace bypass
 - CVE-2025-27528: Apache InLong: JDBC Vulnerability for Invisible Character Bypass Leading to Arbitrary File Read
 - Alibaba AI 全球挑战赛赛道三 12名
-- Black Hat Asia 2026 Contributor -《More JVM Memory Shells – JVM Memory Shell Auto Searching Program》
 
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=h3h3qaq&show_icons=true&hide_border=true&hide=prs&theme=buefy">
